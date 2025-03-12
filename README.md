@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer with 3 years of experience in building Machine Learning projects. I specialize in developing enterprise applications using recommendation systems (RecSys), classical machine learning (ML), reinforcement learning (RL), and computer vision (CV).
+Developer with 3 years of experience in building Machine Learning projects. I specialize in developing enterprise applications using Classical Machine Learning, Recommendation Systems, Deep Learning, Reinforcement Learning and Computer Vision.
 ### My skills:
 <br>► Python<br> • Machine Learning — PyTorch, TensorFlow, Keras, Scikitlearn, CatBoost, XGBoost<br> • Data Analysis — Pandas, NumPy, SciPy<br> • Data Visualization — Matplotlib, Plotly, Bokeh<br> • Jupyter Notebook, Google Colab<br>► Mathematics:<br> • Linear algebra<br> • Mathematical analysis<br> • Probability theory<br> • Mathematical statistics<br>► Microsoft SQL Server, PostgreSQL, MySQL, NoSQL<br>► Git, GitHub, GitLab<br>► Docker<br>► English (B2)
 
