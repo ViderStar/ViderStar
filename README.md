@@ -1,37 +1,147 @@
-# 💫 About Me
-ML Engineer with 4 years of experience delivering production ML systems for e-commerce and industrial domains.
-Core focus: recommender systems and ranking, semantic retrieval/embeddings, applied NLP components, Reinforcement Learning, Classic ML + EDA.
-I work end-to-end: data \& features, modeling, experimentation (A/B), deployment, and monitoring.
+<h1 align="center">Hi 👋 I'm Artsem Lebiadzevich</h1>
 
-### What I work with
-- **RecSys & Retrieval:** ranking/retrieval, embeddings, cold start, offline eval, A/B testing 
-- **NLP / LLM-adjacent:** embeddings-based search, Sentence Transformers / cross-encoders 
-- **Data & Infra:** ClickHouse, PostgreSQL, Redis + **RediSearch Vector**, FAISS, HNSW, Airflow, MLflow
-- **Backend / MLOps-ish:** FastAPI, Docker, CI/CD, monitoring with Prometheus/Grafana
-- **Languages:** Python, SQL | **English:** B2
+<h3 align="center">
+Machine Learning Engineer • Recommender Systems • Applied AI
+</h3>
 
----
+<p align="center">
+Building production recommendation systems, retrieval pipelines and AI products.
+</p>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artsem-lebiadzevich/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swanovich)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artyomlebedevich@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViderStar/)
 
----
+<p align="center">
+<a href="https://linkedin.com/in/artsem-lebiadzevich">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 💻 Tech Stack (core)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=000000)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<a href="https://t.me/swanovich">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:artyomlebedevich@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ViderStar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💫 About Me
+
+Machine Learning Engineer with **4+ years of experience** building production ML systems across **large-scale e-commerce**, industrial AI and applied LLM applications.
+
+Currently developing personalization and recommendation systems for one of Eastern Europe's largest marketplaces, serving **~1.6M users** and **6M+ products**.
+
+My interests include:
+
+- Recommendation Systems
+- Semantic Search & Retrieval
+- Large Language Models
+- Applied NLP
+- Representation Learning
+- Ranking & Personalization
+- Machine Learning Infrastructure
+
+Alongside industry work, I conduct research in recommender systems, teach Machine Learning at university level, and lead one of Belarus' largest university ML communities.
+
+---
+
+## 🚀 Current Focus
+
+- 🛒 Production Recommendation Systems
+- 🤖 Applied LLM & AI Agents
+- 🔍 Semantic Search & Hybrid Retrieval
+- 🧠 User Representation Learning
+- ⚡ Embedding-based Personalization
+- 📈 A/B Testing & ML Experimentation
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+Python • SQL • C++ • Java
+
+### Machine Learning
+
+PyTorch • TensorFlow • Scikit-Learn • CatBoost • XGBoost • LightGBM
+
+### Recommender Systems
+
+Retrieval • Ranking • SASRec • Candidate Generation • Cold Start • Offline Evaluation
+
+### LLM & NLP
+
+Transformers • HuggingFace • PEFT • LoRA • RAG • Gemini • GPT • Llama • LangChain
+
+### Vector Search
+
+FAISS • HNSW • pgvector • Elasticsearch
+
+### Data Engineering
+
+ClickHouse • PostgreSQL • Redis • Kafka • Airflow • Spark
+
+### Backend
+
+FastAPI • Flask • Docker • Kubernetes
+
+### MLOps
+
+MLflow • Grafana • Prometheus • Zabbix
+
+---
+
+## 📚 Research Interests
+
+- Recommender Systems
+- Multi-stage Retrieval
+- Neural Ranking
+- Representation Learning
+- Semantic Search
+- Hybrid Retrieval
+- LLM Applications
+- User Modeling
+
+---
+
+## 🎓 Teaching
+
+Founder & Lead Instructor of **ML FAMCS**, one of the largest university Machine Learning communities in Belarus.
+
+- 500+ community members
+- 370+ students in the latest season
+- Complete ML curriculum from mathematics to production ML
+- Collaboration with Yandex School of Data Analysis (ShAD)
+
+---
+
+## 🌍 Connect with me
+
+Always happy to meet new people interested in AI, machine learning, startups, research, or building cool things. Don't hesitate to send me a message =)
+
+<p align="center">
+<a href="https://linkedin.com/in/artsem-lebiadzevich">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/swanovich">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:artyomlebedevich@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ViderStar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+> *"Machine Learning is engineering first, research second, hype last."*
