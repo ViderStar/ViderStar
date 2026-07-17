@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋 I'm Artsem Lebiadzevich</h1>
+<h1 align="center">Artsem Lebiadzevich</h1>
 
 <h3 align="center">
-Machine Learning Engineer • Recommender Systems • Applied AI
+Machine Learning Engineer • Applied AI
 </h3>
-
-<p align="center">
-Building production recommendation systems, retrieval pipelines and AI products.
-</p>
 
 
 <p align="center">
