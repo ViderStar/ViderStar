@@ -14,14 +14,14 @@ Machine Learning Engineer • Applied AI
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/375336896768">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 <a href="mailto:artyomlebedevich@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ViderStar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 ---
 
@@ -120,6 +120,7 @@ Founder & Lead Instructor of **ML FAMCS**, one of the largest university Machine
 
 Always happy to meet new people interested in AI, machine learning, startups, research, or building cool things. Don't hesitate to send me a message =)
 
+
 <p align="center">
 <a href="https://linkedin.com/in/artsem-lebiadzevich">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -129,14 +130,13 @@ Always happy to meet new people interested in AI, machine learning, startups, re
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/375336896768">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 <a href="mailto:artyomlebedevich@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/ViderStar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 ---
 
